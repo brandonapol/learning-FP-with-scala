@@ -1,0 +1,10 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/brandonapol/Documents/Tutorials/fp-book/1-1.scala:5:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef increment(x: Int): Int = {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/brandonapol/Documents/Tutorials/fp-book/1-1.scala:9:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef getFirstCharacter(s: String): Char = {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/brandonapol/Documents/Tutorials/fp-book/1-1.scala:13:1: expected class or object definition[0m
+[0m[[0m[31merror[0m] [0m[0mdef wordScore(word: String): Int = {[0m
+[0m[[0m[31merror[0m] [0m[0m^[0m
+[0m[[0m[31merror[0m] [0m[0mthree errors found[0m
