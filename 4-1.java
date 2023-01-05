@@ -27,3 +27,4 @@ class wordScore {
         System.out.println(ranking);
     }
 }
+
